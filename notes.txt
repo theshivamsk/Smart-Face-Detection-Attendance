@@ -1,0 +1,8 @@
+Command ::
+CV2 ::  pip install opencv-python
+face_recognition :: pip3 install face_recognition
+
+Dm us on instagram : techoverflows 
+for any errors, if you are facing.
+
+DM us for any projects and ppt or project reports.
